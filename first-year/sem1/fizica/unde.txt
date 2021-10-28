@@ -1,0 +1,14 @@
+UNDE ELASTICE
+Noţiuni generale
+Unda = fenomenul de propagare din aproape în aproape a
+unei perturbaţii periodice produsa într-un anumit punct din
+mediul de propagare.
+Funcţia de undă = descrie matematic mărimea perturbată
+Ψ(x,y,z,t)Clasificarea undelor:
+a.) după tipul de energie:
+- unde elastice: transportă energie mecanică
+- unde electromagnetice: transportă energie electro-magnetică
+- unde magneto-hidrodinamice
+b.) după modul de propagare:
+- unde longitudinale
+- unde transversale
