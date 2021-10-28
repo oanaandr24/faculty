@@ -1,0 +1,27 @@
+
+A proof is a demonstration that some statement is true. We normally demonstrate proofs
+by writing English sentences mixed with symbols.
+We’ll consider statements that are either true or false. If A and B be are statements, then
+“not A,” “A and B,” and “A or B,” are called negation, conjunction, and disjunction,
+respectively. “not A” is opposite in truth value from A. “A and B” is true exactly when
+both A and B are true “A or B” is true except when both A and B are false.
+€ 
+A B if A then B if not B then not A
+T T T T
+T F F F
+F T T T
+F F T T
+Conditionals: “if A then B” (or “A implies B”) is a
+conditional statement with hypothesis A and conclusion
+B. It’s contrapositive is “if not B then not A” and it’s
+converse is “if B then A”. Statements with the same
+truth table are said to be equivalent. The table shows
+that a conditional and it’s contrapositive are equivalent.
+A conditional is vacuously true if its hypothesis is false.
+A conditional is trivially true if its conclusion is true.
+Proof Techniques: We’ll give sample proofs about numbers. Here are some definitions.
+• integers: ..., -2, -1, 0, 1, 2, ...
+• odd integers: ..., -3, -1, 1, 3, ... (have the form 2k + 1 for some integer k).
+• even integers:..., -4, -2, 0, 2, 4, ... (have the form 2k for some integer k).
+• m | n (read m divides n) if m ≠ 0 and n = km for some integer k.
+• p is prime if p > 1 and its only divisors are 1 and p.
